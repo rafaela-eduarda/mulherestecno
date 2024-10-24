@@ -33,6 +33,11 @@ p {
     display: block;
     margin: auto;
     width: 300px;
+    display: block;
+    border: solid 5px ;
+    padding: 5px;
+    border-radius: 10px;
+  
 }
 
 nav{
