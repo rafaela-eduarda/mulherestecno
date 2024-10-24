@@ -77,4 +77,5 @@ button{
     border: 5px double black; /* Espessura e cor da borda */
     padding: 20px; /* Espaço interno */
     margin: 20px; /* Espaço externo */
+    background-color: white; /* Cor de fundo do elemento */
 }
