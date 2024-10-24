@@ -72,3 +72,6 @@ button{
     width: 150px;
     border-radius: 8px;
 }
+p:hover {
+    background-color: #e0f7fa; /* Muda a cor de fundo ao passar o mouse */
+}
