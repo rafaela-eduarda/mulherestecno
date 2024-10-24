@@ -39,7 +39,6 @@ p {
     border-radius: 10px;
     margin-top: 20px;
     margin-bottom: 20px; 
-    display: block; /* Garante que a imagem se comporte como um bloco */
 }
 
 nav{
