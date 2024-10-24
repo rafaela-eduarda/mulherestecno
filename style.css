@@ -62,6 +62,8 @@ li{
 
 li a{
     font-size: 50px;
+    text-decoration: none;
+    color: #00a2ff ;
 }
 
 button{
