@@ -76,3 +76,8 @@ button{
 p:hover {
     background-color: #eea4e5;
 }
+
+header img {
+    margin-top: 20px; /* Adiciona espaço acima da imagem */
+    margin-bottom: 20px; /* Adiciona espaço abaixo da imagem */
+}
