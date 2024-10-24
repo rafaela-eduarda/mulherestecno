@@ -62,6 +62,7 @@ li{
 
 li a{
     font-size: 50px;
+    transition: color 0.3s;
 }
 
 button{
